@@ -1,0 +1,130 @@
+Vehicle emissions control is the study of reducing the emissions produced by motor vehicles, especially internal combustion engines. The primary emissions studied include hydrocarbons, volatile organic compounds, carbon monoxide, carbon dioxide, nitrogen oxides, particulate matter, and sulfur oxides. Starting in the 1950s and 1960s, various regulatory agencies were formed with a primary focus on studying the vehicle emissions and their effects on human health and the environment. As the world's understanding of vehicle emissions improved, so did the devices used to mitigate their impacts. In the United States, the regulatory requirements of the Clean Air Act, which was amended many times, greatly restricted acceptable vehicle emissions. With the restrictions, vehicles started being designed more efficiently by utilizing various emission control systems and devices which became more common in vehicles over time.
+
+Types of emissions
+Emissions of many air pollutants have been shown to have variety of negative effects on public health and the natural environment. Emissions that are principal pollutants of concern include:
+
+Hydrocarbons (HC) – A class of burned or partially burned fuel, hydrocarbons are toxins. Hydrocarbons are a major contributor to smog, which can be a major problem in urban areas. Prolonged exposure to hydrocarbons contributes to asthma, liver disease, lung disease, and cancer. Regulations governing hydrocarbons vary according to type of engine and jurisdiction; in some cases, "non-methane hydrocarbons" are regulated, while in other cases, "total hydrocarbons" are regulated. Technology for one application (to meet a non-methane hydrocarbon standard) may not be suitable for use in an application that has to meet a total hydrocarbon standard. Methane is not directly toxic, but is more difficult to break down in fuel vent lines and a charcoal canister is meant to collect and contain fuel vapors and route them either back to the fuel tank or, after the engine is started and warmed up, into the air intake to be burned in the engine.
+Volatile organic compounds (VOCs) – Organic compounds which typically have a boiling point less than or equal to 250 °C; for example chlorofluorocarbons (CFCs) and formaldehyde.
+Carbon monoxide (CO) – A product of incomplete combustion, inhaled carbon monoxide reduces the blood's ability to carry oxygen; overexposure (carbon monoxide poisoning) may be fatal.  (Carbon monoxide persistently binds to hemoglobin, the oxygen-carrying chemical in red blood cells, where oxygen (O2) would temporarily bind. The bonding of CO excludes O2 and also reduces the ability of the hemoglobin to release already-bound oxygen, on both counts rendering the red blood cells ineffective.  Recovery is by the slow release of bound CO and the body's production of new hemoglobin – a healing process – so full recovery from moderate to severe [but nonfatal] CO poisoning takes hours or days.  Removing a person from a CO-poisoned atmosphere to fresh air stops the injury but does not yield prompt recovery, unlike the case where a person is removed from an asphyxiating atmosphere [i.e. one deficient in oxygen].  Toxic effects delayed by days are also common.)
+Nitrogen oxides (NOx) – Generated when nitrogen in the air reacts with oxygen at the high temperature and pressure inside the engine. NOx is a precursor to smog and acid rain. NOx includes NO and NO2. NO2 is extremely reactive. NOx production is increased when an engine runs at its most efficient (i.e. hottest) operating point, so there tends to be a natural tradeoff between efficiency and control of NOx emissions. It is expected to be reduced drastically by use of emulsion fuels.
+Particulate matter – Soot or smoke made up of particles in the micrometre size range: Particulate matter causes negative health effects, including but not limited to respiratory disease and cancer.  Very fine particulate matter has been linked to cardiovascular disease.
+Sulfur oxide (SOx) – A general term for oxides of sulfur, which are emitted from motor vehicles burning fuel containing sulfur. Reducing the level of fuel sulfur reduces the level of sulfur oxides emitted from the tailpipe.
+
+History
+Throughout the 1950s and 1960s, various federal, state and local governments in the United States conducted studies into the numerous sources of air pollution. These studies ultimately attributed a significant portion of air pollution to the automobile, and concluded air pollution is not bounded by local political boundaries. At that time, such minimal emission control regulations as existed in the U.S. were promulgated at the municipal or, occasionally, the state level. The ineffective local regulations were gradually supplanted by more comprehensive state and federal regulations. By 1967 the State of California created the California Air Resources Board, and in 1970, the federal United States Environmental Protection Agency (EPA) was established. Both agencies, as well as other state agencies, now create and enforce emission regulations for automobiles in the United States. Similar agencies and regulations were contemporaneously developed and implemented in Canada, Western Europe, Australia, and Japan.
+The first effort at controlling pollution from automobiles was the PCV (positive crankcase ventilation) system. This draws crankcase fumes heavy in unburned hydrocarbons – a precursor to photochemical smog – into the engine's intake tract so they are burned rather than released unburned from the crankcase into the atmosphere. Positive crankcase ventilation was first installed on a widespread basis by law on all new 1961-model cars first sold in California. The following year, New York required it. By 1964, most new cars sold in the U.S. were so equipped, and PCV quickly became standard equipment on all vehicles worldwide.
+The first legislated exhaust (tailpipe) emission standards were promulgated by the State of California for 1966 model year for cars sold in that state, followed by the United States as a whole in model year 1968.  Also in 1966, the first emission test cycle was enacted in the State of California measuring tailpipe emissions in PPM (parts per million).  The standards were progressively tightened year by year, as mandated by the EPA.
+By the 1974 model year, the United States emission standards had tightened such that the de-tuning techniques used to meet them were seriously reducing engine efficiency and thus increasing fuel usage. The new emission standards for 1975 model year, as well as the increase in fuel usage, forced the invention of the catalytic converter for after-treatment of the exhaust gas. This was not possible with existing leaded gasoline, because the lead residue contaminated the platinum catalyst. In 1972, General Motors proposed to the American Petroleum Institute the elimination of leaded fuels for 1975 and later model year cars. The production and distribution of unleaded fuel was a major challenge, but it was completed successfully in time for the 1975 model year cars. All modern cars are now equipped with catalytic converters to further reduce vehicle emissions.
+Leading up to the 1981 model year in the United States, passenger vehicle manufactures were faced with the challenges in its history of meeting new emissions regulations, how to meet the much more restrictive requirements of the Clean Air Act (United States) per the 1977 amendment. For example: to meet this challenge, General Motors created a new "Emissions Control Systems Project Center" (ECS) first located at the AC Spark Plug Engineering Building in Flint, Michigan.  Its purpose was to "Have overall responsibility for the design and development of the carborated and fuel injected closed loop 3-way catalyst system including related electronic controls, fuel metering, spark control, idle speed control, EGR, etc. currently planned through 1981."
+In 1990, the Clean Air Act (CAA) was amended to help further regulate harmful vehicle emissions. In the amendment, vehicle fuel regulations became more stringent by limiting how much sulfur was allowed in diesel fuel. The amendments also required a procedural change for the creation of gasoline to ensure there are less emissions of hydrocarbons (HC), carbon monoxide (CO), nitrogen oxides (NOX), particulate matter (PM), and volatile organic compounds (VOCs). Changes made to the CAA also required the use of oxygenated gasoline to reduce CO emissions.
+Throughout the years, the Environmental Protection Agency (EPA) continued to implement new regulations to reduce harmful emissions for vehicles. Some of the more important update standards are as follows.
+
+1983: For areas with big pollution problems, Inspection and Maintenance programs were created, meaning vehicles would need to get tested for emissions.
+1985: Changed the allowable amount of gasoline to 0.1 grams per gallon.
+1991: Lowered the allowable emissions of HC and NOx for vehicle tailpipes.
+1993: Began developing new vehicle technology to help triple the fuel economy in family sedans, thus reducing harmful emissions.
+1996: Lead in gasoline officially banned. New regulations created with intentions of innovating vehicle design to be cleaner for the environment and improving engine performance.
+1998: Diesel engine standards further increased in efforts to reduce ozone and PM emissions for various vehicles including industrial equipment.
+1999: Tailpipe emission standards are finalized, sulfur contents in gasoline are reduced, and various boats/other marine vehicles using diesel had reduced emission limits for NOx and PM.
+
+History of lead in gasoline
+In 1922, lead was added to gasoline as an antiknock agent. It was not until 1969, nearly five decades later, that research began to show the negative health affects related to lead as a pollutant. Despite the plethora of negative health impacts discovered, no regulatory requirements were implemented to reduce lead levels in gasoline until 1983. Slowly, countries began banning use of lead in gasoline entirely from the years of 1986 to 2021. Japan was first to ban lead in gasoline in 1986, with North and South America following with nearly every country in the two continents banning lead by 1998. Africa was the latest to ban lead in gasoline with most countries banning in 2004 and 2005 and the last, Algeria, which didn't ban it until 2021.
+
+Regulatory agencies
+The agencies charged with implementing exhaust emission standards vary from jurisdiction to jurisdiction, even in the same country. For example, in the United States, overall responsibility belongs to the EPA, but due to special requirements of the State of California, emissions in California are regulated by the Air Resources Board. In Texas, the Texas Railroad Commission is responsible for regulating emissions from LPG-fueled rich burn engines (but not gasoline-fueled rich burn engines).
+
+North America
+California Air Resources Board – California, United States (most sources)
+Environment Canada – Canada (most sources)
+Environmental Protection Agency – United States (most sources)
+Texas Railroad Commission – Texas, United States (LPG-fueled engines only)
+Transport Canada – Canada (trains and ships)
+
+Japan
+Ministry of Land, Infrastructure, Transport and Tourism / Road Transport Bureau / Environmental Policy Division
+
+Europe
+The European Union has control over regulation of emissions in EU member states; however, many member states have their own government bodies to enforce and implement these regulations in their respective countries. In short, the EU forms the policy (by setting limits such as the European emission standard) and the member states decide how to best implement it in their own country.
+
+United Kingdom
+In the United Kingdom, matters concerning environmental policy are "devolved powers" so that some of the constituent countries deal with it separately through their own government bodies set up to deal with environmental issues:
+
+Environment Agency – England and Wales
+Scottish Environment Protection Agency (SEPA) – Scotland
+Department of the Environment – Northern Ireland
+However, many UK-wide policies are handled by the Department for Environment, Food and Rural Affairs (DEFRA) and they are still subject to EU regulations.
+Emissions tests on diesel cars have not been carried out during MOTs in Northern Ireland for 12 years, despite being legally required.
+
+China
+Ministry of Ecology and Environment – Primary regulatory authority responsible for environmental protection, formulates policies, standards, and regulations which encompass vehicle emissions, and environmental impact assessments.
+Ministry of Industry and Information Technology – Creates and establishes goals for new energy vehicles (NEV), and commercial vehicles. Also plays a role in creating national emissions standards for cars.
+State Administration for Market Regulation  – Responsible for market supervision and standardization in China. The State Administration for Market Regulation oversees the enforcement of vehicle emissions standards and ensures compliance by conducting inspections, testing, and quality control measures.
+National Development and Reform Commission - Responsible for macroeconomic planning and formulating energy-related policies in China. The National Development and Reform Commission plays a role on fuel efficiency standards, promoting alternative fuels, and implementing energy-saving measures to reduce emissions from vehicles.
+China Automotive Technology & Research Center - An independent research institution commissioned by the Ministry of Industry and Information Technology, to research, develop and draft the standards for fuel consumption limits of motor vehicles.
+Ministry of Transport of the People's Republic of China  - While it is unclear whether this ministry has legal authority on whether they can enforce these standards, the Ministry of Transport will not issue commercial licenses to any heavy-duty vehicles that don't meet fuel consumption requirements they have set.
+Provincial and Municipal Environmental Protection Bureaus - At the provincial and municipal level these Bureaus are responsible for enforcing regulations such as those related to vehicle emissions. These bureaus monitor compliance, conduct inspections, and impose penalties for non-compliance.
+
+Emission control system design
+It was very important to system designers to meet the emission requirements using a minimum quantity of catalyst material (platinum and/or palladium) due to cost and supply issues.
+The General Motors "Emissions Control Systems Project Center" was "to follow the operational plans established by previous (GM) Project Centers. Items unique to the "Emissions Control Systems Project Center" (were):
+
+No Designers - all design work to be done at home divisions.
+Planning activity which will provide the official timing charts, component costs, allocations, etc.
+The ("Emissions Control Systems Project Center") (had) seven tasks to perform, such that an emission system, which passes all existing Federal Emission and Fuel Economy legislation is put into production.
+These are to work with the car divisions to:
+
+Define hardware and system requirements.
+Develop design specifications for all hardware all hardware required.
+Review alternative designs and systems.
+Arrange to test and validate systems, which best suits the needs of all concerned.
+Monitor component design and release.
+Follow progress of divisional certification work.
+Keep management and divisions apprised of progress status.
+The system implementation (was to) be phased in over three years. In the 1979 model year. California vehicles with 2.5, 2.8 and 3.5 liter engines will have a CLCC system. In 1980 model year, vehicles sold in California and 3.8 and 4.3 liter engines sold federally will have CLCC, and finally in the 1981 model year all passenger cars will have the system. California light and medium duty trucks may also use the c-4 system.  While 1979 and 1980 systems are very similar, the 1981 system (2nd generation) will differ in that it may include additional engine control systems (i.e., electronic spark timing, idle speed control, etc.)
+The Emission Control System under development has been designated C-4.This stands for Computer Controlled Catalytic Converter. The C-4 System encompasses Closed Loop Carburetor Control (CLCC) and Throttle Body Injection (TBI) systems.""
+
+Emissions control
+Engine efficiency has been steadily improved with improved engine design, more precise ignition timing and electronic ignition, more precise fuel metering, and computerized engine management.
+Advances in engine and vehicle technology continually reduce the toxicity of exhaust leaving the engine, but these alone have generally been proved insufficient to meet emissions goals.  Therefore, technologies to detoxify the exhaust are an essential part of emissions control.
+
+Air injection
+One of the first-developed exhaust emission control systems is secondary air injection. Originally, this system was used to inject air into the engine's exhaust ports to provide oxygen so unburned and partially burned hydrocarbons in the exhaust would finish burning. Air injection is now used to support the catalytic converter's oxidation reaction, and to reduce emissions when an engine is started from cold.
+After a cold start, an engine needs an air-fuel mixture richer than what it needs at operating temperature, and the catalytic converter does not function efficiently until it has reached its own operating temperature. The air injected upstream of the converter supports combustion in the exhaust headpipe, which speeds catalyst warmup and reduces the amount of unburned hydrocarbon emitted from the tailpipe.
+
+Exhaust gas recirculation
+In the United States and Canada, many engines in 1973 and newer vehicles (1972 and newer in California) have a system that routes a metered amount of exhaust into the intake tract under particular operating conditions. Exhaust neither burns nor supports combustion, so it dilutes the air/fuel charge to reduce peak combustion chamber temperatures. This, in turn, reduces the formation of NOx.
+
+Catalytic converter
+The catalytic converter is a device placed in the exhaust pipe, which converts hydrocarbons, carbon monoxide, and NOx into less harmful gases by using a combination of platinum, palladium and rhodium as catalysts.
+There are two types of catalytic converter, a two-way and a three-way converter. Two-way converters were common until the 1980s, when three-way converters replaced them on most automobile engines. See the catalytic converter article for further details.
+
+Evaporative emissions control
+Evaporative emissions are the result of gasoline vapors escaping from the vehicle's fuel system. Since 1971, all U.S. vehicles have had fully sealed fuel systems that do not vent directly to the atmosphere; mandates for systems of this type appeared contemporaneously in other jurisdictions. In a typical system, vapors from the fuel tank and carburetor bowl vent (on carbureted vehicles) are ducted to canisters containing activated carbon. The vapors are adsorbed within the canister, and during certain engine operational modes fresh air is drawn through the canister, pulling the vapor into the engine, where it burns.
+
+Remote sensing emission testing
+Some US states are also using a technology which uses infrared and ultraviolet light to detect emissions while vehicles pass by on public roads, thus eliminating the need for owners to go to a test center. Invisible light flash detection of exhaust gases is commonly used in metropolitan areas,, and becoming more broadly known in Europe.
+
+Use of emission test data
+Emission test results from individual vehicles are in many cases compiled to evaluate the emissions performance of various classes of vehicles, the efficacy of the testing program and of various other emission-related regulations (such as changes to fuel formulations) and to model the effects of auto emissions on public health and the environment.
+
+Alternative fuel vehicles
+Exhaust emissions can be reduced by making use of clean vehicle propulsion. The most popular modes include hybrid and electric vehicles. As of December 2020, China had the world's largest stock of highway legal plug-in electric passenger cars with 4.5 million units, representing 42% of the world's stock of plug-in cars.
+
+See also
+AP 42 Compilation of Air Pollutant Emission Factors
+Low carbon economy
+On-board diagnostics#OBD-I
+Ontario's Drive Clean
+Portable Emissions Measurement System
+Roadway air dispersion modeling
+Vehicle inspection
+Phase-out of fossil fuel vehicles
+Non-exhaust emissions
+
+References
+External links
+Manufacturers of Emission Controls Association (MECA)
+Diesel Information Hub
+Association for Emissions Control by Catalyst (AECC)
+National Vehicle and Fuel Emissions Laboratory of the United States Environmental Protection Agency
+Vehicle emissions and testing

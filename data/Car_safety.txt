@@ -1,0 +1,247 @@
+Automotive safety is the study and practice of automotive design, construction, equipment and regulation to minimize the occurrence and consequences of traffic collisions involving motor vehicles. Road traffic safety more broadly includes roadway design.
+One of the first formal academic studies into improving motor vehicle safety was by Cornell Aeronautical Laboratory of Buffalo, New York. The main conclusion of their extensive report is the crucial importance of seat belts and padded dashboards. However, the primary vector of traffic-related deaths and injuries is the disproportionate mass and velocity of an automobile compared to that of the predominant victim, the pedestrian.
+According to the World Health Organization (WHO), 80% of cars sold in the world are not compliant with main safety standards. Only 40 countries have adopted the full set of the seven most important regulations for car safety.
+In the United States, a pedestrian is injured by a motor vehicle every 8 minutes, and are 1.5 times more likely than a vehicle's occupants to be killed in a motor vehicle crash per outing.
+Improvements in roadway and motor vehicle designs have steadily reduced injury and death rates in all first world countries. Nevertheless, auto collisions are the leading cause of injury-related deaths, an estimated total of 1.2 million in 2004, or 25% of the total from all causes. Of those killed by autos, nearly two-thirds are pedestrians. Risk compensation theory has been used in arguments against safety devices, regulations and modifications of vehicles despite the efficacy of saving lives.
+Coalitions to promote road and automotive safety, such as Together for Safer Roads (TSR), brings together global private sector companies, across industries, to collaborate on improving road safety. TSR brings together members' knowledge, data, technology, and global networks to focus on five road safety areas that will make an impact globally and within local communities.
+The rising trend of autonomous things is largely driven by the move towards the autonomous car, that both addresses the main existing safety issues and creates new issues. The autonomous car is expected to be safer than existing vehicles, by eliminating the single most dangerous element - the driver. The Center for Internet and Society at Stanford Law School claims that "Some ninety percent of motor vehicle crashes are caused at least in part by human error". But while safety standards like the ISO 26262 specify the required safety, it is still a burden on the industry to demonstrate acceptable safety.
+
+Occupational driving
+Work-related roadway crashes are the leading cause of death from traumatic injuries in the U.S. workplace. They accounted for nearly 12,000 deaths between 1992 and 2000. Deaths and injuries from these roadway crashes result in increased costs to employers and lost productivity in addition to their toll in human suffering. Truck drivers tend to endure higher fatality rates than workers in other occupations, but concerns about motor vehicle safety in the workplace are not limited to those surrounding the operation of large trucks. Workers outside the motor carrier industry routinely operate company-owned vehicles for deliveries, sales and repair calls, client visits, etc. In these instances, the employer providing the vehicle generally plays a major role in setting safety, maintenance, and training policy. As in non-occupational driving, young drivers are especially at risk. In the workplace, 45% of all fatal injuries to workers under age 18 between 1992 and 2000 in the United States resulted from transportation incidents.
+
+Active and passive safety
+The terms "active" and "passive" are simple but important terms in the world of automotive safety. "Active safety" is used to refer to technology assisting in the prevention of a crash and "passive safety" to components of the vehicle (primarily airbags, seatbelts and the physical structure of the vehicle) that help to protect occupants during a crash.
+
+Crash avoidance
+Crash avoidance systems and devices help the driver — and, increasingly, help the vehicle itself — to avoid a collision. This category includes:
+
+The vehicle's headlamps, reflectors, and other lights and signals
+The vehicle's mirrors
+The vehicle's brakes, steering, and suspension systems
+
+Driver assistance
+A subset of crash avoidance is driver assistance systems, which help the driver to detect obstacles and to control the vehicle. Driver assistance systems include:
+
+Driver Alertness Detection System (DADS) to help prevent crashes caused by fatigue, lack of alertness, or distractions
+Advanced emergency braking system systems to prevent or reduce the severity of collision.
+Infrared night vision systems to increase seeing distance beyond headlamp range
+Adaptive headlamps control the direction and range of the headlight beams to light the driver's way through curves and maximize seeing distance without partially blinding other drivers
+Reverse backup sensors, which alert drivers to difficult-to-see objects in their path when reversing
+Backup camera
+Adaptive cruise control which maintains a safe distance from the vehicle in front
+Lane departure warning systems to alert the driver of an unintended departure from the intended lane of travel
+Tire pressure monitoring systems or Deflation Detection Systems
+Traction control systems which restore traction if driven wheels begin to spin
+Electronic Stability Control, which intervenes to avert an impending loss of control
+Anti-lock braking systems
+Electronic brakeforce distribution systems
+Emergency brake assist systems
+Cornering Brake Control systems
+Assured Clear Distance Ahead measurement and speed governance systems
+Precrash system
+Automated parking system
+Obstacle detection sensor systems notify a driver how close their vehicle is to an object - usually providing a distance measurement, to the inch, as to how close they are.
+
+Crashworthiness
+Crashworthy systems and devices prevent or reduce the severity of injuries when a crash is imminent or actually happening. Much research is carried out using anthropomorphic crash test dummies.
+
+Seatbelts limit the forward motion of an occupant, stretch to absorb energy, to lengthen the time of the occupant's negative acceleration in a crash, reducing the loading on the occupants' body. They prevent occupants being ejected from the vehicle and ensure that they are in the correct position for the operation of the airbags.
+Airbags inflate to cushion the impact of a vehicle occupant with various parts of the vehicle's interior. The most important being the prevention of direct impact of the driver's head with the steering wheel and door pillar.
+Laminated windshields remain in one piece when impacted, preventing penetration of unbelted occupants' heads and maintaining a minimal but adequate transparency for control of the car immediately following a collision. It is also a bonded structural part of the safety cell. Tempered glass side and rear windows break into granules with minimally sharp edges, rather than splintering into jagged fragments as ordinary glass does.
+Crumple zones absorb and dissipate the force of a collision, displacing and diverting it away from the passenger compartment and reducing the negative acceleration impact force on the vehicle occupants. Vehicles will include a front, rear and maybe side crumple zones (like Volvo SIPS) too.
+Safety Cell—the passenger compartment is reinforced with high strength materials, at places subject to high loads in a crash, in order to maintain a survival space for the vehicle occupants.  Footwell intrusion is one recognized failure mode of the safety cell, and anti-intrusion bars are one component addressing protection in side impacts.
+Collapsible universally jointed steering columns, along with steering wheel airbag. The steering system is mounted behind the front axle - behind and protected by, the front crumple zone. This reduces the risk and severity of driver impact or even impalement on the column in a frontal crash.
+Pedestrian protection systems.
+Padding of the instrument panel and other interior parts, on the vehicle in areas likely to be struck by the occupants during a crash, and the careful placement of mounting brackets away from those areas.
+Cargo barriers are sometimes fitted to provide a physical barrier between passenger and cargo compartments in vehicles such as SUVs, station wagons and vans. These help prevent injuries caused by occupants being struck by unsecured cargo. They can also help prevent collapse of the roof in the event of a vehicle rollover.
+
+Post-crash survivability
+Post-crash survivability is the chance that drivers and passengers survive a crash after it occurs. Technology such as Advanced Automatic Collision Notification can automatically place calls to emergency services and send information about a vehicle collision.
+
+Pedestrian safety
+Cars are much more dangerous to pedestrians than they are to drivers and passengers. Two-thirds of 1.3 million yearly auto related deaths are pedestrians. Since at least the early 1970s, attention has also been given to vehicle design regarding the safety of pedestrians in car-pedestrian collisions. Proposals in Europe would require cars sold there to have a minimum/maximum hood (bonnet) height. From 2006, the use of "bull bars", a fashion on 4x4s and SUVs, became illegal in the European Union, after having been banned on all new cars in 2002.
+
+Conspicuity
+Lights and reflectors
+Vehicles are equipped with a variety of lights and reflectors to mark their presence, position, width, length, and direction of travel as well as to convey the driver's intent and actions to other drivers. These include the vehicle's headlamps, front and rear position lamps, side marker lights and reflectors, turn signals, stop (brake) lamps, and reversing lamps. School buses and semi-trailer trucks in North America are required to bear retroreflective strips outlining their side and rear perimeters for greater conspicuity at night.
+Daytime running lamps have been required in the Nordic countries since the mid-1970s, in Canada since 1990, and throughout the European Union since 7 February 2011.
+
+Vehicle colour
+A 2004 essay on the relation between car colour and safety stated that no previous studies had been scientifically conclusive. Since then, a Swedish study found that pink cars are involved in the fewest and black cars are involved in the most crashes (Land transport NZ 2005). In Auckland New Zealand, a study found that there was a significantly lower rate of serious injury in silver cars, with higher rates in brown, black, and green cars. The Vehicle Colour Study, conducted by Monash University Accident Research Centre (MUARC) and published in 2007, analysed 855,258 crashes that occurring between 1987 and 2004 in the Australian states of Victoria and Western Australia that resulted in injury or in a vehicle being towed away. The study analysed risk by light condition. It found that in daylight, black cars were 12% more likely than white to be involved in a collision, followed by grey cars at 11%, silver cars at 10%, and red and blue cars at 7%, with no other colours found to be significantly more or less risky than white. At dawn or dusk, the risk ratio for black cars jumped to 47% more likely than white, and that for silver cars to 15%. In the hours of darkness, only red and silver cars were found to be significantly more risky than white, by 10% and 8% respectively.
+
+Unused safety features
+Many different inventions and ideas which may or may not have been practical about auto safety have been put forward but never made it to a production car. Such items include the driver seat in the middle (to give the person a better view) (the exception being the McLaren F1 super car) and control stick steering.
+
+History
+18th century–19th century
+Automotive safety may have become an issue almost from the beginning of mechanised road vehicle development. The second steam-powered "Fardier" (artillery tractor), created by Nicolas-Joseph Cugnot in 1771, is reported by some to have crashed into a wall during its demonstration run. However, according to Georges Ageon, the earliest mention of this occurrence dates from 1801 and it does not feature in contemporary accounts. One of the earliest recorded car-related fatalities was Mary Ward, on August 31, 1869, in Parsonstown, Ireland.
+
+1920s
+In 1922, the Duesenburg Model A became the first car to have four-wheel hydraulic brakes.
+
+1930s
+In 1930, safety glass became standard on all Ford cars. In the 1930s, plastic surgeon Claire L. Straith and physician C. J. Strickland advocated the use of seat belts and padded dashboards. Strickland founded the Automobile Safety League of America.
+In 1934, GM performed the first barrier crash test.
+In 1936, the Hudson Terraplane came with the first back-up brake system. Should the hydraulic brakes fail, the brake pedal would activate a set of mechanical brakes for the back wheels.
+In 1937, Chrysler, Plymouth, DeSoto, and Dodge added such items as a flat, smooth dash with recessed controls, rounded door handles, a windshield wiper control made of rubber, and the back of the front
+seat heavily padded to provide protection for rear passengers.
+
+1940s
+In 1942, Hugh DeHaven published the classic Mechanical analysis of survival in falls from heights of fifty to one hundred and fifty feet.
+In 1947, the American Tucker was built with the world's first padded dashboard. It also came with middle headlight that turned with the steering wheel, a front steel bulkhead, and a front safety chamber.
+In 1949, SAAB incorporated aircraft safety thinking into automobiles making the Saab 92 the first production SAAB car with a safety cage.
+Also in 1949, the Chrysler Imperial Crown was the first car to come with standard disc brakes.
+
+1950s
+In 1955, a USAF surgeon who advised the US Surgeon General wrote an article on how to make cars safer for those riding in it. Aside from the usual safety features, such as seat belts and padded dashboards, bumper shocks were introduced.
+In 1956, Ford tried unsuccessfully to interest Americans in purchasing safer cars with their Lifeguard safety package. (Its attempt nevertheless earns Ford Motor Trend's "Car of the Year" award for 1956.)
+In 1958, the United Nations established the World Forum for Harmonization of Vehicle Regulations, an international standards body advancing auto safety. Many of the most life saving safety innovations, like seat belts and roll cage construction were brought to market under its auspices. That same year, Volvo engineer Nils Bohlin invented and patented the three-point lap and shoulder seat belt, which became standard equipment on all Volvo cars in 1959. Over the next several decades, three-point safety belts were gradually mandated in all vehicles by regulators throughout the industrialised world.
+In 1959, American Motors Corporation offered the first optional head rests for the front seat. Also in 1959, the Cadillac Cyclone concept by Harley Earl had "a radar-based crash-avoidance system" located in the on the nose cones of the vehicle that would make audible and visual signals to the driver if there were obstacles in the vehicle's path.
+
+1960s
+Effective on new passenger cars sold in the United States after January 1, 1964. front outboard lap belts were required.
+On September 9, 1966, the National Traffic and Motor Vehicle Safety Act became law in the U.S., the first mandatory federal safety standards for motor vehicles.
+Effective in 1966, US-market passenger cars were required to be equipped with padded instrument panels, front and rear outboard lap belts, and white reverse (backup) lamps.
+In 1966, the U.S. established the United States Department of Transportation (DOT) with automobile safety as one of its purposes. The National Transportation Safety Board (NTSB) was created as an independent organization on April 1, 1967, but was reliant on the DOT for administration and funding. However, in 1975 the organization was made completely independent by the Independent Safety Board Act (in P.L. 93-633; 49 U.S.C. 1901).
+In 1967, equipment specifications by such major fleet purchasers as the City and County of Los Angeles, California, encouraged the voluntary installation in most new cars sold in the US of safety devices, systems, and design features including:
+
+Elimination of protruding knobs and controls in passenger compartment
+Additional padding on the instrument panel and other interior surfaces
+Mounting points for front outboard shoulder belts
+Four-way hazard flashers
+A uniform P-R-N-D-L gear sequence for automatic transmission gear selectors
+Dual-circuit brake hydraulic systems
+In 1968, the precursor agency to the US National Highway Traffic Safety Administration's first Federal Motor Vehicle Safety Standards took effect. These required shoulder belts for left and right front-seat vehicle occupants, side marker lights, collapsible steering columns, and other safety features. 1969 saw the addition of head restraints for front outboard passengers, addressing the problem of whiplash in rear-end collisions. These safety requirements did not apply to vehicles classified as "commercial," such as light-duty pickup trucks. Thus, manufacturers did not always include such hardware in these vehicles, even though many did passenger-car duty.
+Volvo developed the first rear-facing child seat in 1964 and introduced its own booster seat in 1978.
+
+1970s
+In 1974, GM offered driver and passenger airbags as optional equipment on large Cadillacs, Buicks, and Oldsmobiles.
+In 1976, the crash test dummy Hybrid III was introduced to assess the impacts of car collisions. It represented the 50th percentile male standing at approximately 5' 9" tall and weighing 78 kg (171 lbs).
+In 1979, NHTSA began crash-testing popular cars and publishing the results, to inform consumers and encourage manufacturers to improve the safety of their vehicles. Initially, the US NCAP (New Car Assessment Program) crash tests examined compliance with the occupant-protection provisions of FMVSS 208. Over the subsequent years, this NHTSA program was gradually expanded in scope.
+
+1980s
+In 1984, New York State passed the first U.S. law requiring seat belt use in passenger cars. Seat belt laws have since been adopted by 49 states (New Hampshire has not). NHTSA estimates the resulting increased seat belt use saves 10,000 per year in the United States.
+In 1986, the central 3rd brake light was mandated in North America with most of the world following with similar standards in automotive lighting.
+Airbags were first installed in production vehicles in the 1980s as standard equipment instead of an option as was done in the mid-1970s (such as the Oldsmobile Toronado in 1974). In 1981, airbags were an available option on the  Mercedes-Benz W126 (S-Class). In 1987, the Porsche 944 Turbo became the first car to have driver and passenger airbags as standard equipment, and airbags were offered as an available option on the 944 and 944S. The first airbag was also installed in a Japanese car, the Honda Legend, in 1987. In 1988, Chrysler was the first United States company to install standard driver's side air bags, in six of its passenger models. In 1989, Chrysler became the first U.S. auto manufacturer to install driver-side air bags in all its domestic-built automobiles.
+
+1990s
+In 1995, the Insurance Institute for Highway Safety (IIHS) began frontal offset crash tests.
+Also in the same year, Volvo introduced the world's first car with side airbags: the 850.
+In 1996, the European New Car Assessment Programme (Euro NCAP) was established to test new vehicles' safety performance and publish the results for vehicle shoppers' information. The NHTSA crash tests are presently operated and published as the U.S. branch of the international NCAP programme.
+
+2000s
+In 2000, the NHTSA released a regulation making trunk releases mandatory for new cars by September of the following year due, in part, to the lobbying efforts of Janette Fennell.
+In 2003, the IIHS began conducting side impact crash tests. In 2004, NHTSA released new tests designed to test the rollover risk of new cars and SUVs. Only the Mazda RX-8 got a 5-star rating.
+Also in 2003, the National Highway Traffic Safety Administration (NHTSA) introduced a female counterpart crash test dummy of Hybrid III. This dummy was just a scaled-down version of the original Hybrid III, only representing the smallest 5% of women based on mid-1970s standards.
+In 2009, Citroën became the first manufacturer to feature "Snowmotion", an Intelligent Anti Skid system developed in conjunction with Bosch, which gives drivers a level of control in extreme ice or snow conditions similar to a 4x4.
+In 2009, NHTSA upgraded its roof-crush standard for vehicles weighing 6000 pounds or less. The new standard increased the crush load requirement from 1.5 to 3 times the vehicle's curb weight.
+
+2010s
+From 2011, new cars should have brake assist system in the EU, according to The Pedestrian Protection Regulation (EC) 78/2009.
+Starting in 2012, all cars under 10,000 lbs. sold in the US are required to have Electronic Stability Control.
+In 2014, ESP  (Electronic Stability Program) and TPMS became mandatory in the European Union, with also the driver seat belt reminder and the ISOFIX system, under General Safety Regulation (EC) No 661/2009.
+In 2015, recognizing that safer roads are a shared responsibility, Together for Safer Roads (TSR) was formally launched to align the private sector's road safety efforts with the United Nations Decade of Action for Road Safety.
+In 2016 and 2017, ABS became mandatory on motorcycles in the EU.
+In 2018, eCall became mandatory in the EU, and reverse camera in the US.
+In 2019, the EU legislated to revise the General Safety Regulation (GSR), the revision includes the following automotive safety features:
+
+Intelligent Speed Assistance (ISA)
+Drowsiness Alerts (DDR-AW)
+Distraction Alerts
+Event Data Recorders (EDR)
+Advanced Emergency Braking
+Alcohol Interlock Installation Facilitation (ALC)
+Tire-pressure monitoring system (TPMS)
+Emergency Stop Signals (ESS)
+Lane Departure Warning Systems
+Reversing Detection (REV)
+Safety-belt Warning Systems covering all the seats in a vehicle
+Vehicle Master Control Switches
+Driver Availability Monitoring Systems
+In addition, a number of regulatory changes have been made in the update to the GSR in relation to vehicle design, in which the following have been mandated:
+
+Enlargement of Head Impact Zones.
+Reduction of blind spots for buses, vans and HGVs.
+Improved easy access, for people with low levels of mobility, on buses which have a capacity over 22 persons, and which allow standing.
+Regulation in relation to frontal protection systems.
+Previously vans, SUVs and MPVs were exempted from regulations pertaining to height and vehicle characteristics, these exemptions have been revised.
+
+Safety trends
+In the US, about 34,000 people were killed by traffic crashes every year from 2015 to 2020. Sharp rises in the price of fuel and related driver behavioural changes reduced 2007-8 highway fatalities in the US to below the 1961 fatality count. Litigation played a large part in mandating safer cars.
+Safety is a significant concern in the European Union (EU 28) with 25,249 fatalities and around 130,000 serious injuries in 2018 and 2017 respectively. Overall, between 2001 and 2018, there was an almost 50% reduction in road deaths in the EU from 55,092 in 2001 to the 2018 figure of 25,249. In 2018, the EU average road death rate was 49 people per million inhabitants. Also in 2018, Romania had the worst figures in this regard with 96 people out of a million inhabitants dying on the roads, Belgium had the median score standing at 52 deaths per million, and the UK scored the best with 28 people out of every million dying on its roads.
+
+International comparison
+In 1996, the US had about 2 deaths per 10,000 motor vehicles, compared to 1.9 in Germany, 2.6 in France, and 1.5 in the UK. In 1998, there were 3,421 fatal crashes in the UK, the fewest since 1926; in 2010, this number was further reduced to 1,857 and was attributed to the 2009–2010 scrappage scheme.
+The sizable traffic safety lead enjoyed by the US since the 1960s had narrowed significantly by 2002, with the US improvement percentages lagging in 16th place behind those of Australia, Austria, Canada, Denmark, Finland, Germany, United Kingdom, Iceland, Japan, Luxembourg, the Netherlands, New Zealand, Norway, Sweden, and Switzerland in terms of deaths per thousand vehicles, while in terms of deaths per 100 million vehicle miles travelled, the US had dropped from first place to tenth place.
+
+US specificities
+Transportation safety in the United States is monitored by various agencies.
+
+Research on the trends in use of heavy vehicles indicate that a significant difference between the US and other countries is the relatively high prevalence of pickup trucks and SUVs in the US. A 2003 study by the US Transportation Research Board found that SUVs and pickup trucks are significantly less safe than passenger cars, that non-US branded vehicles tend to be safer than US branded vehicles, and that the size and weight of a vehicle has a significantly smaller effect on safety than the quality of the vehicle's engineering. In the US, the level of large commercial truck traffic has substantially increased since the 1960s, while highway capacity has not kept pace with the increase in large commercial truck traffic on US highways. However, other factors exert significant influence; Canada has lower roadway death and injury rates despite a vehicle mix comparable to that of the US. Nevertheless, the widespread use of truck-based vehicles as passenger carriers is correlated with roadway deaths and injuries not only directly by dint of vehicular safety performance per se, but also indirectly through the relatively low fuel costs that facilitate the use of such vehicles in North America; motor vehicle fatalities decline as fuel prices increase.
+The US NHTSA has issued relatively few regulations since the mid-1980s; most of the vehicle-based reduction in vehicle fatality rates in the US during the last third of the 20th Century were gained by the initial NHTSA safety standards issued from 1968 to 1984 and subsequent voluntary changes in vehicle design and construction by vehicle manufacturers.
+
+Issues for particular demographic groups
+Women
+The domain of automotive design has been traditionally characterized as male-dominated. As a result there has been a lack of female automotive designers in the area of automotive safety compared to male automotive designers. This leads to oversights in automotive safety and ergonomics for female consumers, who make up 62% of all new cars sold in the USA. According to the Insurance Institute for Highway Safety (IIHS), women are less likely to get into a crash than men are. However, women are 17% more likely to die in a car crash and 73% more likely to sustain serious injuries from a crash when compared to men. In rear-end collisions, female drivers face a higher risk of whiplash injuries when compared to their male counterparts due to their lighter weight which causes them to be propelled forward more rapidly. 
+When pregnant, women should continue to use seatbelts and airbags properly. A University of Michigan study found that "unrestrained or improperly restrained pregnant women are 5.7 times more likely to have an adverse fetal outcome than properly restrained pregnant women".  If seatbelts are not long enough, extensions are available from the car manufacturer or an aftermarket supplier.
+
+Infants and children
+Children present significant challenges in engineering and producing safe vehicles, because most children are significantly smaller and lighter than most adults. Additionally, children far from being just scaled down adults, still have an undeveloped skeletal system. This means that vehicle restraint systems such as airbags and seat belts, far from being effective, are hazardous if used to restrain young children. In recognition of this, many medical professionals and jurisdictions recommend or require that children under a particular age, height, and/or weight ride in a child seat and/or in the back seat, as applicable.
+Within Europe ECE Regulation R44 dictates that children below 150 cm must travel in a child restraint that is appropriate for their weight. Each country have their own adaptions of this Regulation. For instance, in the United Kingdom, children must travel in a child restraint until they are 135 cm tall or reach 12 years of age, which ever comes soonest. As another example, in Austria, the driver of passenger vehicles is responsible for people shorter than 150 cm and below 14 years to be seated in an adequate child safety seat. Moreover, it is not allowed for children below the age of 3 to ride in a passenger vehicle without "security system" (which in practice means the vehicle is not equipped with any seat belts or technical systems like Isofix), whereas children between 3 and 14 years have to ride in the back seat.
+Sweden specify that a child or an adult shorter than 140 cm is legally forbidden to ride in a place with an active airbag in front of it.
+The majority of medical professionals and biomechanical engineers agree that children below the age of two years old are much safer if they travel in a rearward facing child restraint.
+Child safety locks and driver-controlled power window lockout controls prevent children from opening doors and windows from inside the vehicle.
+
+Infants left in cars
+Very young children can perish from heat or cold if left unattended in a parked car, whether deliberately or through absent-mindedness. In 2004, the U.S. NHTSA estimated 25 fatalities per year among children left in hot cars.
+
+Teenage drivers
+In the UK, a full driving licence can be had at age 17, and most areas in the United States will issue a full driver's license at the age of 16, and all within a range between 14 and 18.  In addition to being relatively inexperienced, teen drivers are also cognitively immature, compared to adult drivers. This combination leads to a relatively high crash rate among this demographic.
+In some areas, new drivers' vehicles must bear a warning sign to alert other drivers that the vehicle is being driven by an inexperienced and learning driver, giving them opportunity to be more cautious and to encourage other drivers to give novices more leeway.  In the U.S. New Jersey has Kyleigh's Law citing that teen drivers must have a decal on their vehicle.
+Some countries, such as Australia, the United States, Canada and New Zealand, have graduated levels of driver's licence, with special rules. By 2010, all US states required a graduated driver's licence for drivers under age 18. In Italy, the maximum speed and power of vehicles driven by new drivers is restricted. In Romania, the maximum speed of vehicles driven by new drivers (less than one year in experience) is 20 km/h lower than the national standard (except villages, towns and cities). Many U.S. states allow 18-year-olds to skip some requirements that younger drivers would face, which statistics show may be causing higher crash rates among new drivers. New Jersey has the same requirements for new drivers up to the age of 21, which may obviate this problem.
+
+Medical conditions
+According to a study published in 2017 in the Mayo Clinic Proceedings, although most drivers with medical conditions were safe drivers, drivers with psychiatric conditions or substance abuse were particularly at higher risks of unsafe driving. The study also reported that drivers with neurological conditions were the majority of the entire study population (Belgium) who were referred for a driving evaluation, but they were not the most unsafe drivers.
+
+Elderly
+Insurance statistics in the United States indicate a 30% increase in the number of elderly killed, comparing 1975 to 2000.
+Several states require additional testing for elderly drivers. On a per-driver basis, the number of fatal and overall crashes decreases with age, with some exceptions for drivers over 75.  The overall trend may be due to greater experience and avoiding driving in adverse conditions. However, on a per-miles-travelled basis, drivers younger than 25-30 and older than 65-70 have significantly higher crash rates. Survivability of crashes decreases monotonically with the age of the victim.
+A common problem for the elderly is the question of when a medical condition or biological aging presents a serious enough problem that one should stop driving. In some cases, this means giving up some personal independence, but in urban areas often means relying more on public transportation. Many transit systems offer discounted fares to seniors, and some local governments run "senior shuttles" specifically targeted at this demographic.
+
+Vehicle programs
+While it is usually considered that the driver has the responsibility when collisions occur, vehicle can also contribute to collisions, up to 3% to 5% of crashes.
+Two kinds of programs exist: new car assessment program for new cars, and vehicle inspections for other ones.
+
+NCAP
+A New Car Assessment Program is a government or institutional car safety program tasked with evaluating new car designs for performance against various safety threats.
+Two well known NCAP are United States New Car Assessment Program since 1978 and European New Car Assessment Programme since 1997.
+
+Legal vehicle inspections
+Vehicle inspection is a procedure mandated by national or subnational governments in many countries, in which a vehicle is inspected to ensure that it conforms to regulations governing safety, emissions, or both.  Inspection can be required at various times, e.g., periodically or on the transfer of title to a vehicle.
+If required periodically, it might be termed periodic motor vehicle inspection, or MOT test in the UK, or roadworthiness test in EU directives. Typical intervals are every two years (in EU) and every year (in UK). When a vehicle passes inspection, often a sticker is placed on the vehicle's windshield or registration plate to simplify later controls, but in some countries (such as Netherlands since 1994) this is no longer necessary.
+Vehicles are tested at inspection stations when due for inspection. Most US inspection decals/stickers display the month's number and the year. They are called testing centre in EU directives.
+Vehicle inspection exists in the United States.
+In Victoria, Australia, safety features checked include the structure of the vehicle, the tires (depth of tread), the wheels, the engine, steering, suspension, brakes, and lights and seatbelts.
+
+Other safety measures
+Tires should be checked regularly.
+Tire checking is important, because proper contact between tire and road is required for adequate vehicle control.
+
+See also
+References
+Further reading
+Furness, S; Connor, J; Robinson, E; Norton, R; Ameratunga, S; Jackson, R (2003). "Car colour and risk of car crash injury: Population based case control study". BMJ. 327 (7429): 1455–1456. doi:10.1136/bmj.327.7429.1455. PMC 300804. PMID 14684646.
+Wai Chen; Shengwei Cai (2005). "Ad hoc peer-to-peer network architecture for vehicle safety communications". IEEE Communications Magazine. 43 (4): 100–107. doi:10.1109/MCOM.2005.1421912. S2CID 10423453.
+Reumerman, H.-J; Roggero, M; Ruffini, M (2005). "The application-based clustering concept and requirements for intervehicle networks". IEEE Communications Magazine. 43 (4): 108–113. doi:10.1109/MCOM.2005.1421913. S2CID 11548000.
+"Safe vehicle colours". Land transport NZ. 2005. Archived from the original on 2 February 2006. Retrieved 2006-01-01.
+Peden M, McGee K, Sharma G (2002). "The injury chart book: a graphical overview of the global burden of injuries" (PDF). Geneva, World Health Organization. Archived (PDF) from the original on 24 November 2005. Retrieved 2006-01-01. ISBN 978-92-4-156220-1
+Physics Today, January 2006, "Vehicle Design and the Physics of Traffic Safety"
+Evans, Leonard (2004). Traffic Safety. Science Serving Society. ISBN 978-0-9754871-0-5.
+
+External links
+
+European safety ratings
+Automotive Safety
+National Transportation Safety Board. (US)
+National agency for Automotive Safety & Victim's Aid (NASVA) Archived 2007-03-22 at the Wayback Machine, Japan
+No More Flying Glass When Vehicles Collide Popular Science monthly, February 1919, bottom page 27, Scanned by Google Books

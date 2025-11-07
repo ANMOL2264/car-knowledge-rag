@@ -1,0 +1,70 @@
+A transmission (also called a gearbox) is a mechanical device invented by Louis Renault (who founded Renault) which uses a gear set—two or more gears working together—to change the speed, direction of rotation, or torque multiplication or reduction, in a machine. 
+A transmission can have a single, or fixed, gear ratio or it can have variable ratios; a variable-ratio transmission can have multiple discrete gear ratios or be continuously variable. Variable-ratio transmissions are used in many kinds of machinery, especially vehicles.
+
+Applications
+Early uses
+Early transmissions included the right-angle drives and other gearing in windmills, horse-powered devices, and steam-powered devices. Applications of these devices included pumps, mills and hoists.
+
+Bicycles
+Bicycles conventionally have used hub gear or derailleur gear transmissions, but there are other more recent design innovations.
+
+Automobiles
+Since the torque and power output of an internal combustion engine (ICE) varies with its (rotational) speed, automobiles powered by ICEs require multiple gear ratios to keep the engine within its power band to produce optimal power, fuel efficiency, and smooth operation. Multiple gear ratios are also needed to provide sufficient acceleration and velocity for safe and reliable operation at modern highway speeds. ICEs typically operate over a range of approximately 600–7000 rpm, while the vehicle's speeds requires the wheels to rotate in the range of 0–1800 rpm.
+In the early mass-produced automobiles, the standard transmission design was manual: the combination of gears was selected by the driver through a lever (the gear stick) that displaced gears and gear groups along their axes.  Starting in 1939, cars using various types of automatic transmission became available in the US market.  These vehicles used the engine's own power to change the effective gear ratio depending on the load so as to keep the engine running close to its optimal rotation speed. Automatic transmissions now are used in more than two thirds of cars globally, and on almost all new cars in the US.
+Most currently produced passenger cars with gasoline or diesel engines use transmissions with 4–10 forward gear ratios (also called speeds) and one reverse gear ratio. Electric vehicles typically use fixed-ratio or two-speed transmissions with no reverse, as electric motors can operate efficiently across wider ranges of speed, all the way down to stopped, and change directions electrically. Electrical vehicles with more than one driven axle often have separate front and rear motors and drive trains rather than longitudinal drive shafts.
+
+Motorcycles
+Fixed-ratio
+The simplest transmissions used a fixed ratio to provide either a gear reduction or increase in speed, sometimes in conjunction with a change in the orientation of the output shaft. Examples of such transmissions are used in helicopters and wind turbines. In the case of a wind turbine, the first stage of the gearbox is usually a planetary gear, to minimize the size while withstanding the high torque inputs from the turbine.
+
+Multi-ratio
+Many transmissions – especially for transportation applications – have multiple gears that are used to change the ratio of input speed (e.g. engine speed) to the output speed (e.g. the speed of a car) as required for a given situation. Gear (ratio) selection can be manual, semi-automatic, or automatic.
+
+Manual
+A manual transmission requires the driver to manually select the gears by operating a gear stick and clutch (which is usually a foot pedal for cars or a hand lever for motorcycles).
+Most transmissions in modern cars use synchromesh to synchronise the speeds of the input and output shafts. However, prior to the 1950s, most cars used non-synchronous transmissions.
+
+Sequential manual
+A sequential manual transmission is a type of non-synchronous transmission used mostly for motorcycles and racing cars. It produces faster shift times than synchronized manual transmissions, through the use of dog clutches rather than synchromesh. Sequential manual transmissions also restrict the driver to selecting either the next or previous gear, in a successive order.
+
+Semi-automatic
+A semi-automatic transmission is where some of the operation is automated (often the actuation of the clutch), but the driver's input is required to move off from a standstill or to change gears.
+
+Automated manual / clutchless manual
+An automated manual transmission (AMT) is essentially a conventional manual transmission that uses automatic actuation to operate the clutch and/or shift between gears.
+Many early versions of these transmissions were semi-automatic in operation, such as Autostick, which automatically control only the clutch, but still require the driver's input to initiate gear changes. Some of these systems are also referred to as clutchless manual systems. Modern versions of these systems that are fully automatic in operation, such as Selespeed and Easytronic, can control both the clutch operation and the gear shifts automatically, without any input from the driver.
+
+Automatic
+An automatic transmission does not require any input from the driver to change forward gears under normal driving conditions.
+
+Hydraulic automatic
+The most common design of automatic transmissions is the hydraulic automatic, which typically uses planetary gearsets that are operated using hydraulics. The transmission is connected to the engine via a torque converter (or a fluid coupling prior to the 1960s), instead of the friction clutch used by most manual transmissions and dual-clutch transmissions.
+
+Dual-clutch (DCT)
+A dual-clutch transmission (DCT) uses two separate clutches for odd and even gear sets. The design is often similar to two separate manual transmissions with their respective clutches contained within one housing, and working as one unit. In car and truck applications, the DCT functions as an automatic transmission, requiring no driver input to change gears.
+
+Continuously-variable Ratio
+A continuously variable transmission (CVT) can change seamlessly through a continuous range of gear ratios. This contrasts with other transmissions that provide a limited number of gear ratios in fixed steps. The flexibility of a CVT with suitable control may allow the engine to operate at a constant speed while the vehicle moves at varying speeds.
+CVTs are used in cars, tractors, side-by-sides, motor scooters, snowmobiles, bicycles, and earthmoving equipment.
+The most common type of CVT uses two pulleys connected by a belt or chain; however, several other designs have also been used at times.
+
+Noise and vibration
+Gearboxes are often a major source of noise and vibration in vehicles and stationary machinery.  Higher sound levels are generally emitted when the vehicle is engaged in lower gears. The design life of the lower ratio gears is shorter, so cheaper gears may be used, which tend to generate more noise due to smaller overlap ratio and a lower mesh stiffness etc. than the helical gears used for the high ratios. This fact has been used to analyze vehicle-generated sound since the late 1960s, and has been incorporated into the simulation of urban roadway noise and corresponding design of urban noise barriers along roadways.
+
+Gear design
+Main article: Gear, Gear failure mechanism
+Gears are machine elements aimed to transmit power, their proper design is defined by standard.
+The standard ISO 6336 and AGMA 2001 provide informations regarding the design procedure and define calculation method to verify if gears are safe with respect to different failure mechanism. 
+Without a correct design and manufacturing of the gears the transmission could present low efficiency, high NVH and low lifetime.
+Gears present several failure mechanism, which are: wear, scuffing, pitting, micro-pitting, tooth flank fracture and tooth root fatigue fracture.
+These mechanisms are due to several phenomena: friction, contact (Hertzian pressure, sliding/rolling), bending fatigue and lack of lubrication. All these phenomena can happen simultaneously and they lead to the failure of the gearbox.
+
+See also
+
+Bicycle gearing
+Direct-drive mechanism
+List of auto parts
+Transfer case
+
+
+== References ==
