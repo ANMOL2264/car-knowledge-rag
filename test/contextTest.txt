@@ -1,0 +1,163 @@
+ to slow or stop.
+
+Pumping
+Pumping brakes are often used where a pump is already part of the machinery. For example, an internal-combustion piston motor can have the fuel supply stopped, and then internal pumping losses of the engine create some braking. Some engines use a valve override called a Jake brake to greatly increase pumping losses. Pumping brakes can dump energy as heat, or can be regenerative brakes that recharge a pressure reservoir called a hydraulic accumulator.
+
+Electromagnetic
+Electromagnetic brakes are likewise often used where an electric motor is already part of the machinery. For example, many hybrid gasoline/electric vehicles use the electric motor as a generator to charge electric batteries and also as a regenerative brake. Some diesel/electric railroad locomotives use the electric motors to generate electricity which is then sent to a resistor bank and dumped as heat. Some vehicles, such as some transit buses, do not already have an electric motor but use a secondary "retarder" brake t
+
+A brake is a mechanical device that inhibits motion by absorbing energy from a moving system. It is used for slowing or stopping a moving vehicle, wheel, axle, or to prevent its motion, most often accomplished by means of friction.
+
+Background
+Most brakes commonly use friction between two surfaces pressed together to convert the kinetic energy of the moving object into heat, though other methods of energy conversion may be employed. For example, regenerative braking converts a significant portion of the otherwise wasted kinetic energy of a moving vehicle into electrical energy, which can be stored in batteries for later use. Other methods convert kinetic energy into potential energy in such stored forms as pressurized air or pressurized oil. Eddy current brakes use magnetic fields to convert kinetic energy into electric current in the brake disc, fin, or rail, which is converted into heat. Still other braking methods transform the kinetic energy into different forms, for example, by transferring the energy to
+
+ch as some transit buses, do not already have an electric motor but use a secondary "retarder" brake that is effectively a generator with an internal short circuit. Related types of such a brake are eddy current brakes, and electro-mechanical brakes (which actually are magnetically driven friction brakes, but nowadays are often just called "electromagnetic brakes" as well).
+Electromagnetic brakes slow an object through electromagnetic induction, which creates resistance and in turn either heat or electricity. Friction brakes apply pressure on two separate objects to slow the vehicle in a controlled manner.
+
+Characteristics
+Brakes are often described according to several characteristics including:
+
+Peak force – The peak force is the maximum decelerating effect that can be obtained. The peak force is often greater than the traction limit of the tires, in which case the brake can cause a wheel skid.
+Continuous power dissipation – Brakes typically get hot in use and fail when the temperature gets too high. The gr
+
+. When traveling downhill, some vehicles can use their engines to brake.
+When the brake pedal of a modern vehicle with hydraulic brakes is pushed against the master cylinder, ultimately a piston pushes the brake pad against the brake disc, which slows the wheel down. In a brake drum design, a similar action is employed, involving a cylinder that pushes the brake shoes against the drum, thereby slowing the rotation.
+
+Types
+Brakes may be broadly described as using friction, pumping, or electromagnetics. One brake may use several principles: for example, a pump may pass fluid through an orifice to create friction:
+
+Frictional
+Frictional brakes are most common and can be divided broadly into "shoe" or "pad" brakes, using an explicit wear surface, and hydrodynamic brakes, such as parachutes, which use friction in a working fluid and do not explicitly wear. Typically the term "friction brake" is used to mean pad/shoe brakes and excludes hydrodynamic brakes, even though hydrodynamic brakes use friction. Friction (pa
+
+ methods transform the kinetic energy into different forms, for example, by transferring the energy to a rotating flywheel.
+Brakes are generally applied to rotating axles or wheels, but may also take other forms, such as the surface of a moving fluid (flaps deployed into water or air). Some vehicles utilize a combination of braking mechanisms, such as drag racing cars equipped with both wheel brakes and a parachute, or airplanes that employ both wheel brakes and flaps raised into the air during landing.
+Since kinetic energy increases quadratically with velocity (
+  
+    
+      
+        K
+        =
+        m
+        
+          v
+          
+            2
+          
+        
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle K=mv^{2}/2}
+  
+), an object moving at 10 m/s has 100 times as much energy as one of the same mass moving at 1 m/s. Consequently, the theoretical braking distance, when braking at the traction limit, is up to 100 times as long. In practice, fast vehicles typically experien
+
+f foundation brake systems are “S” cam brakes, disc brakes and wedge brakes.
+
+Brake boost
+Most modern passenger vehicles, and light vans, use a vacuum assisted brake system that greatly increases the force applied to the vehicle's brakes by its operator. This additional force is supplied by the manifold vacuum generated by air flow being obstructed by the throttle on a running engine.  This force is greatly reduced when the engine is running at fully open throttle, as the difference between ambient air pressure and manifold (absolute) air pressure is reduced, and therefore available vacuum is diminished. However, brakes are rarely applied at full throttle; the driver takes the right foot off the gas pedal and moves it to the brake pedal - unless left-foot braking is used.
+Because of low vacuum at high RPM, reports of unintended acceleration are often accompanied by complaints of failed or weakened brakes, as the high-revving engine, having an open throttle, is unable to provide enough vacuum to power the brak
+
+have wear surfaces that must be renewed periodically. Wear surfaces include the brake shoes or pads, and also the brake disc or drum. There may be tradeoffs, for example, a wear surface that generates high peak force may also wear quickly.
+Weight – Brakes are often "added weight" in that they serve no other function. Further, brakes are often mounted on wheels, and unsprung weight can significantly hurt traction in some circumstances. "Weight" may mean the brake itself, or may include additional support structure.
+Noise – Brakes usually create some minor noise when applied, but often create squeal or grinding noises that are quite loud.
+
+Foundation components
+Foundation components are the brake-assembly components at the wheels of a vehicle, named for forming the basis of the rest of the brake system.  These mechanical parts contained around the wheels are controlled by the air brake system.
+The three types of foundation brake systems are “S” cam brakes, disc brakes and wedge brakes.
+
+Brake boost
+Most modern 
+
+manufacturers replaced drum brakes with disc brakes.
+
+Electronic brake system
+In 1966, an ABS was fitted in the Jensen FF grand tourer.  There was no electronic control: wheel lock-up was detected mechanically by a Dunlop Maxaret unit fitted to the centre differential of the Ferguson four wheel drive system and brake pressure was modulated by a solenoid actuated valve.
+In 1978, Bosch and Mercedes updated their 1936 anti-lock brake system for the Mercedes S-Class. That ABS is a fully electronic, four-wheel and multi-channel system that later became standard.
+In 2005, ESC — which automatically applies the brakes to avoid a loss of steering control — become compulsory for carriers of dangerous goods without data recorders in the Canadian province of Quebec.
+Since 2017, numerous United Nations Economic Commission for Europe (UNECE) countries use Brake Assist System (BAS) a function of the braking system that deduces an emergency braking event from a characteristic of the driver's brake demand and under such condi
+
+the high-revving engine, having an open throttle, is unable to provide enough vacuum to power the brake booster. This problem is exacerbated in vehicles equipped with automatic transmissions as the vehicle will automatically downshift upon application of the brakes, thereby increasing the torque delivered to the driven-wheels in contact with the road surface.
+Heavier road vehicles, as well as trains, usually boost brake power with compressed air, supplied by one or more compressors.
+
+Noise
+Although ideally a brake would convert all the kinetic energy into heat, in practice a significant amount may be converted into acoustic energy instead, contributing to noise pollution.
+For road vehicles, the noise produced varies significantly with tire construction, road surface, and the magnitude of the deceleration. Noise can be caused by different things. These are signs that there may be issues with brakes wearing out over time.
+
+Fires
+Railway brake malfunctions can produce sparks and cause forest fires. In some very 
+
+behaviors.
+While energy is always lost during a brake event, a secondary factor that influences efficiency is "off-brake drag", or drag that occurs when the brake is not intentionally actuated. After a braking event, hydraulic pressure drops in the system, allowing the brake caliper pistons to retract. However, this retraction must accommodate all compliance in the system (under pressure) as well as thermal distortion of components like the brake disc or the brake system will drag until the contact with the disc, for example, knocks the pads and pistons back from the rubbing surface. During this time, there can be significant brake drag. This brake drag can lead to significant parasitic power loss, thus impacting fuel economy and overall vehicle performance.
+
+History
+Early brake system
+In the 1890s, Wooden block brakes became obsolete when Michelin brothers introduced rubber tires.
+During the 1960s, some car manufacturers replaced drum brakes with disc brakes.
+
+Electronic brake system
+In 1966, an ABS was fitt
+
+ over time.
+
+Fires
+Railway brake malfunctions can produce sparks and cause forest fires. In some very extreme cases, disc brakes can become red hot and set on fire. This happened in the Tuscan GP, when the Mercedes car, the W11 had its front carbon disc brakes almost bursting into flames, due to low ventilation and high usage. These fires can also occur on some Mercedes Sprinter vans, when the load adjusting sensor seizes up and the rear brakes have to compensate for the fronts.
+
+Inefficiency
+A significant amount of energy is always lost while braking, even with regenerative braking which is not perfectly efficient. Therefore, a good metric of efficient energy use while driving is to note how much one is braking. If the majority of deceleration is from unavoidable friction instead of braking, one is squeezing out most of the service from the vehicle. Minimizing brake use is one of the fuel economy-maximizing behaviors.
+While energy is always lost during a brake event, a secondary factor that influences effici
+
+rs and returns to a battery some energy which would otherwise be wasted by friction brakes getting hot. Although all cars must have friction brakes (front disc brakes and either disc or drum rear brakes) for emergency stops, regenerative braking improves efficiency, particularly in city driving.
+
+User interface
+Cars are equipped with controls used for driving, passenger comfort, and safety, normally operated by a combination of the use of feet and hands, and occasionally by voice on 21st-century cars. These controls include a steering wheel, pedals for operating the brakes and controlling the car's speed (and, in a manual transmission car, a clutch pedal), a shift lever or stick for changing gears, and a number of buttons and dials for turning on lights, ventilation, and other functions. Modern cars' controls are now standardised, such as the location for the accelerator and brake, but this was not always the case. Controls are evolving in response to new technologies, for example, the electric car and the in
+
+oe brakes and excludes hydrodynamic brakes, even though hydrodynamic brakes use friction. Friction (pad/shoe) brakes are often rotating devices with a stationary pad and a rotating wear surface. Common configurations include shoes that contract to rub on the outside of a rotating drum, such as a band brake; a rotating drum with shoes that expand to rub the inside of a drum, commonly called a "drum brake",   although other drum configurations are possible; and pads that pinch a rotating disc, commonly called a "disc brake". Other brake configurations are used, but less often. For example, PCC trolley brakes include a flat shoe which is clamped to the rail with an electromagnet; the Murphy brake pinches a rotating drum, and the Ausco Lambert disc brake uses a hollow disc (two parallel discs with a structural bridge) with shoes that sit between the disc surfaces and expand laterally.
+A drum brake is a vehicle brake in which the friction is caused by a set of brake shoes that press against the inner surface of a 
+
+ake in which the friction is caused by a set of brake shoes that press against the inner surface of a rotating drum.  The drum is connected to the rotating roadwheel hub.
+Drum brakes generally can be found on older car and truck models. However, because of their low production cost, drum brake setups are also installed on the rear of some low-cost newer vehicles. Compared to modern disc brakes, drum brakes wear out faster due to their tendency to overheat.
+The disc brake is a device for slowing or stopping the rotation of a road wheel.  A brake disc (or rotor in U.S. English), usually made of cast iron or ceramic, is connected to the wheel or the axle.  To stop the wheel, friction material in the form of brake pads (mounted in a device called a brake caliper) is forced mechanically, hydraulically, pneumatically or electromagnetically against both sides of the disc.  Friction causes the disc and attached wheel to slow or stop.
+
+Pumping
+Pumping brakes are often used where a pump is already part of the machinery
+
+ case. Controls are evolving in response to new technologies, for example, the electric car and the integration of mobile communications.
+Some of the original controls are no longer required. For example, all cars once had controls for the choke valve, clutch, ignition timing, and a crank instead of an electric starter. However, new controls have also been added to vehicles, making them more complex. These include air conditioning, navigation systems, and in-car entertainment. Another trend is the replacement of physical knobs and switches by secondary controls with touchscreen controls such as BMW's iDrive and Ford's MyFord Touch. Another change is that while early cars' pedals were physically linked to the brake mechanism and throttle, in the early 2020s, cars have increasingly replaced these physical linkages with electronic controls.
+
+Electronics and interior
+Cars are typically equipped with interior lighting which can be toggled manually or be set to light up automatically with doors open, an entertainme
+
+ earthmoving equipment.
+The most common type of CVT uses two pulleys connected by a belt or chain; however, several other designs have also been used at times.
+
+Noise and vibration
+Gearboxes are often a major source of noise and vibration in vehicles and stationary machinery.  Higher sound levels are generally emitted when the vehicle is engaged in lower gears. The design life of the lower ratio gears is shorter, so cheaper gears may be used, which tend to generate more noise due to smaller overlap ratio and a lower mesh stiffness etc. than the helical gears used for the high ratios. This fact has been used to analyze vehicle-generated sound since the late 1960s, and has been incorporated into the simulation of urban roadway noise and corresponding design of urban noise barriers along roadways.
+
+Gear design
+Main article: Gear, Gear failure mechanism
+Gears are machine elements aimed to transmit power, their proper design is defined by standard.
+The standard ISO 6336 and AGMA 2001 provide informations regarding
+
+ower dissipation – Brakes typically get hot in use and fail when the temperature gets too high. The greatest amount of power (energy per unit time) that can be dissipated through the brake without failure is the continuous power dissipation. Continuous power dissipation often depends on e.g., the temperature and speed of ambient cooling air.
+Fade – As a brake heats, it may become less effective, called brake fade. Some designs are inherently prone to fade, while other designs are relatively immune. Further, use considerations, such as cooling, often have a big effect on fade.
+Smoothness – A brake that is grabby, pulses, has chatter, or otherwise exerts varying brake force may lead to skids. For example, railroad wheels have little traction, and friction brakes without an anti-skid mechanism often lead to skids, which increases maintenance costs and leads to a "thump thump" feeling for riders inside.
+Power – Brakes are often described as "powerful" when a small human application force leads to a braking force 
+
+aking at the traction limit, is up to 100 times as long. In practice, fast vehicles typically experience significant air drag, and the energy lost to air drag increases rapidly with speed.
+Almost all wheeled vehicles have a brake of some sort. Even baggage carts and shopping carts may have them for use on a moving ramp. Most fixed-wing aircraft are fitted with wheel brakes on the undercarriage. Some aircraft also feature air brakes designed to reduce their speed in flight. Notable examples include gliders and some World War II-era aircraft, primarily some fighter aircraft and many dive bombers of the era. These allow the aircraft to maintain a safe speed in a steep descent. The Saab B 17 dive bomber and Vought F4U Corsair fighter used the deployed undercarriage as an air brake.
+Friction brakes on automobiles store braking heat in the drum brake or disc brake while braking, then conduct it to the air gradually. When traveling downhill, some vehicles can use their engines to brake.
+When the brake pedal of a mod
+
+ting which can be toggled manually or be set to light up automatically with doors open, an entertainment system which originated from car radios, sideways windows which can be lowered or raised electrically (manually on earlier cars), and one or multiple auxiliary power outlets for supplying portable appliances such as mobile phones, portable fridges, power inverters, and electrical air pumps from the on-board electrical system. More costly upper-class and luxury cars are equipped with features earlier such as massage seats and collision avoidance systems.
+Dedicated automotive fuses and circuit breakers prevent damage from electrical overload.
+
+Lighting
+Cars are typically fitted with multiple types of lights. These include headlights, which are used to illuminate the way ahead and make the car visible to other users, so that the vehicle can be used at night; in some jurisdictions, daytime running lights; red brake lights to indicate when the brakes are applied; amber turn signal lights to indicate the turn in
+
+rakes are often described as "powerful" when a small human application force leads to a braking force that is higher than typical for other brakes in the same class. This notion of "powerful" does not relate to continuous power dissipation, and may be confusing in that a brake may be "powerful" and brake strongly with a gentle brake application, yet have lower (worse) peak force than a less "powerful" brake.
+ Pedal feel – Brake pedal feel encompasses subjective perception of brake power output as a function of pedal travel. Pedal travel is influenced by the fluid displacement of the brake and other factors.
+Drag – Brakes have varied amount of drag in the off-brake condition depending on design of the system to accommodate total system compliance and deformation that exists under braking with ability to retract friction material from the rubbing surface in the off-brake condition.
+Durability – Friction brakes have wear surfaces that must be renewed periodically. Wear surfaces include the brake shoes or pads, a
